@@ -2,6 +2,7 @@
 
 ## Description
 30,000 natural scene OCR data for minority languages in Southeast Asia, including Khmer (Cambodia), Lao and Burmese. The diversity of collection includes a variety of natural scenes and a variety of shooting angles. This set of data can be used for Southeast Asian language OCR tasks.
+
 For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1758?source=Github
 
 ## Specifications
